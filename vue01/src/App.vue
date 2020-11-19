@@ -4,7 +4,6 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
       <div>瑶瑶</div>
-      <div>蒙桑123</div>
     </div>
     <router-view/>
   </div>
