@@ -5,7 +5,7 @@
       <router-link to="/about">About</router-link>
       <div>瑶瑶</div>
       <div>蒙桑</div>
-      <div>严厉批评上边两位!!!</div>
+      <div>诶嘿!</div>
     </div>
     <router-view/>
   </div>
