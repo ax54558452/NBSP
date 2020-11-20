@@ -5,6 +5,7 @@
       <router-link to="/about">About</router-link>
       <div>瑶瑶</div>
         <div>蒙蒙</div>
+        <div>冲凉</div>
     </div>
     <router-view/>
   </div>
