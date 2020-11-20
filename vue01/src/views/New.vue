@@ -2,6 +2,7 @@
     <div>
         蒙蒙
     </div>
+    <h2>崇亮</h2>
 </template>
 
 <script>
