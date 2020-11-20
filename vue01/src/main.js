@@ -8,6 +8,7 @@ console.log(123123)
 console.log(2222333123)
 console.log('蒙蒙')
 console.log("heihei123")
+console.log('耗子尾汁')
 new Vue({
   router,
   store,
