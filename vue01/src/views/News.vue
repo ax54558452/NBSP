@@ -1,12 +1,12 @@
 <template>
     <div>
-        蒙蒙
+        <button>诶嘿</button>
     </div>
 </template>
 
 <script>
     export default {
-        name: "New"
+        name: "News"
     }
 </script>
 
