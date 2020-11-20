@@ -6,7 +6,7 @@ import store from './store'
 Vue.config.productionTip = false
 console.log(123123)
 console.log(2222333)
-console.log("heihei")
+console.log("heihei123")
 new Vue({
   router,
   store,
